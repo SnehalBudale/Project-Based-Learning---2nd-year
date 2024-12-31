@@ -1,0 +1,1 @@
+This project, developed as part of our 2nd-year Project-Based Learning (PBL), is a prototype system that enables seamless navigation of PowerPoint presentations through hand gestures and voice commands. The aim was to provide an innovative solution for hands-free control during presentations.
